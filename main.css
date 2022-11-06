@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(102deg, #E8FFE8 17.38%, #D1F0FF 81.25%);
+}
+* {
+    box-sizing: border-box;
+}
+
+.my-photo {
+    width: 200px;
+    border-radius: 40px;
+}
+.header {
+    display: flex;
+    text-align: column; 
+    width: 1300px;
+    margin: 0 auto;
+}
+.name {
+    
+    padding-top: 50px;
+    padding-left: 200px;
+}
+
+.main {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.education {
+    padding-top: 20px;
+
+}
+.additional-education {
+    padding-top: 20px;
+}
+.work-experience {
+    padding-top: 20px;
+}
+.contact-information {
+    padding-top: 20px;
+}
+.about-my-self {
+    width: 800px;
+}
+.link-to-social-network{
+    text-decoration: none;
+    color: black;    
+}
